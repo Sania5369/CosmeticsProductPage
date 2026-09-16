@@ -1,0 +1,10 @@
+{
+  "description": "Showcases cosmetics products in a clean 4-column grid with precise spacing for an engaging, user-friendly shopping experience on mobile devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
